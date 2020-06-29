@@ -31,14 +31,14 @@ export default {
       { hid: 'description', name: 'description', content: process.env.npm_package_description || '' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;700;900&display=swap' }
     ]
   },
   /*
   ** Global CSS
   */
-  css: [
-  ],
+  css: ["~/assets/css/styles.css"],
   /*
   ** Plugins to load before mounting the App
   ** https://nuxtjs.org/guide/plugins
