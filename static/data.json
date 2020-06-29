@@ -1,0 +1,294 @@
+[
+    {
+        "emoji": "⏰",
+        "titulo": "Actualidad",
+        "url": "actualidad",
+        "canales": [
+            {
+                "titulo": "The Spanish Army",
+                "url": "https://t.me/TheSpanishArmy",
+                "descripcion": "Canal de noticias de actualidad en España, recopilan noticias de diferentes medios y además publican información y contenido que les mandan los usuarios cuando ocurre algún incidente o algo de interés."
+            },
+            {
+                "titulo": "Info 288 Nacional",
+                "url": "https://t.me/Info288_nacional",
+                "descripcion": "Canal de noticias similar a The Spanish Army que recopila noticias de información para estar al tanto de la actualidad."
+            },
+            {
+                "titulo": "Info 288 Internacional",
+                "url": "https://t.me/info288",
+                "descripcion": "Canal de noticias para estar al tanto de la actualidad internacional."
+            },
+            {
+                "titulo": "Info 288 Seguimientos",
+                "url": "https://t.me/info288_seguimientos",
+                "descripcion": "Canal de noticias que realiza un seguimiento sobre un acontecimiento en concreto, para estar al tanto y obtener información detallada."
+            }
+        ]
+    },
+    {
+        "emoji": "🚗",
+        "titulo": "Automoción",
+        "url": "automocion",
+        "canales": [
+            {
+                "titulo": "CarsMood",
+                "url": "https://t.me/carsMood",
+                "descripcion": "Todas las noticias relevantes sobre automoción a nivel global."
+            }
+        ]
+    },
+    {
+        "emoji": "🔬",
+        "titulo": "Ciencia",
+        "url": "ciencia",
+        "canales": [
+            {
+                "titulo": "CAF",
+                "url": "https://t.me/CAFtv",
+                "descripcion": "Canal que envía curiosidades, frases y fotos relacionadas con la astronomía y ciencia en general."
+            },
+            {
+                "titulo": "Daily Nasa Pics",
+                "url": "https://t.me/Dailynasapictures",
+                "descripcion": "Canal que envía una foto de la NASA todos los días."
+            },
+            {
+                "titulo": "Infografías",
+                "url": "https://t.me/Infografias",
+                "descripcion": "Información interesante en imágenes."
+            },
+            {
+                "titulo": "Sistema Solar",
+                "url": "https://t.me/SistemaSolar",
+                "descripcion": "Canal de información sobre los sistemas solares además de exoplanetas y fenómenos geológicos/atmosféricos."
+            }
+        ]
+    },
+    {
+        "emoji": "🛒",
+        "titulo": "Compras",
+        "url": "compras",
+        "canales": [
+            {
+                "titulo": "Chollos",
+                "url": "https://t.me/Chollos",
+                "descripcion": "Canal de chollos que te informa de importantes rebajas de precio y de contenido gratuito."
+            },
+            {
+                "titulo": "Chollómetro",
+                "url": "https://t.me/chollometro",
+                "descripcion": "Canal similar al anterior."
+            }
+        ]
+    },
+    {
+        "emoji": "💶",
+        "titulo": "Estado",
+        "url": "estado",
+        "canales": [
+            {
+                "titulo": "Boletín Oficial del Estado",
+                "url": "https://t.me/BOEdiario",
+                "descripcion": "Canal donde se publica el BOE."
+            },
+            {
+                "titulo": "Congreso de los Diputados",
+                "url": "https://t.me/CongresodelosDiputados",
+                "descripcion": "Canal para estar informado de la actualidad acerca del Congreso de los Diputados."
+            },
+            {
+                "titulo": "Ministerior de Sanidad",
+                "url": "https://t.me/sanidadgob",
+                "descripcion": "Canal oficial del Ministerio de Sanidad."
+            },
+            {
+                "titulo": "Oposiciones y empleo público",
+                "url": "https://t.me/oposicionesES",
+                "descripcion": "Información de nuevas plazas para funcionarios y empleo público en España."
+            },
+            {
+                "titulo": "Policía Nacional",
+                "url": "https://t.me/policianacional",
+                "descripcion": "Canal oficial de la Policía Nacional."
+            }
+        ]
+    },
+    {
+        "emoji": "😂",
+        "titulo": "Humor",
+        "url": "humor",
+        "canales": [
+            {
+                "titulo": "Canal Humor",
+                "url": "https://t.me/canalhumor",
+                "descripcion": "Posiblemente el canal de humor más conocido."
+            },
+            {
+                "titulo": "Chorradas Telegram",
+                "url": "https://t.me/chorradastelegram",
+                "descripcion": "Canal numeroso de memes, viñetas y humor, un poco de todo, tiene un grupo para compartir humor."
+            },
+            {
+                "titulo": "Darky Memes",
+                "url": "https://t.me/darkymemes",
+                "descripcion": "Contenido de humor negro en inglés."
+            },
+            {
+                "titulo": "Humor Negrito",
+                "url": "https://t.me/HumorNegrito",
+                "descripcion": "Canal de humor negro que comparte viñetas, memes y demás."
+            },
+            {
+                "titulo": "Memes",
+                "url": "https://t.me/canalhumor",
+                "descripcion": "Canal de memes en inglés bastante popular."
+            }
+        ]
+    },
+    {
+        "emoji": "📻",
+        "titulo": "Medios",
+        "url": "medios",
+        "canales": [
+            {
+                "titulo": "20 Minutos",
+                "url": "https://t.me/noticias_20minutos",
+                "descripcion": "Canal del periódico 20 minutos."
+            },
+            {
+                "titulo": "A3 Noticias",
+                "url": "https://t.me/a3_noticias",
+                "descripcion": "Canal de A3 Noticias."
+            },
+            {
+                "titulo": "El Confidencial",
+                "url": "https://t.me/El_Confidencial",
+                "descripcion": "Canal del periódico El Confidencial."
+            },
+            {
+                "titulo": "El Diario",
+                "url": "https://t.me/eldiarioes",
+                "descripcion": "Canal del periódico El Diario."
+            },
+            {
+                "titulo": "El País",
+                "url": "https://t.me/elpaiscom",
+                "descripcion": "Canal del periódico 20 minutos."
+            },
+            {
+                "titulo": "La Sexta",
+                "url": "https://t.me/la_sextam",
+                "descripcion": "Canal de la Sexta."
+            },
+            {
+                "titulo": "Mediterráneo Digital",
+                "url": "https://t.me/MediterraneoDGT",
+                "descripcion": "Canal del periódico Mediterráneo Digital. Políticamente incorrecto."
+            },
+            {
+                "titulo": "OK Diario",
+                "url": "https://t.me/okdiario",
+                "descripcion": "Canal del periódico OK Diario."
+            },
+            {
+                "titulo": "Público",
+                "url": "https://t.me/publico_es",
+                "descripcion": "Canal del periódico Público."
+            },
+            {
+                "titulo": "RT Noticias",
+                "url": "https://t.me/rtnoticias",
+                "descripcion": "Canal de RT Noticias."
+            }
+        ]
+    },
+    {
+        "emoji": "⚖️",
+        "titulo": "Política",
+        "url": "politica",
+        "canales": [
+            {
+                "titulo": "VOX",
+                "url": "https://t.me/VOXtelegram",
+                "descripcion": "Canal oficial del partido político VOX."
+            },
+            {
+                "titulo": "PP",
+                "url": "https://t.me/Partido_Popular",
+                "descripcion": "Canal oficial del partido político PP."
+            },
+            {
+                "titulo": "PSOE",
+                "url": "https://t.me/canalPSOE",
+                "descripcion": "Canal oficial del partido político PSOE."
+            },
+            {
+                "titulo": "Podemos",
+                "url": "https://t.me/ahorapodemos",
+                "descripcion": "Canal oficial del partido político Unidas Podemos."
+            },
+            {
+                "titulo": "Ciudadanos",
+                "url": "https://t.me/CsCiudadanos",
+                "descripcion": "Canal oficial del partido político Ciudadanos."
+            },
+            {
+                "titulo": "Más País",
+                "url": "https://t.me/MasPais_Es",
+                "descripcion": "Canal oficial del partido político Más País."
+            }
+        ]
+    },
+    {
+        "emoji": "📖",
+        "titulo": "Revistas",
+        "url": "revistas",
+        "canales": [
+            {
+                "titulo": "World Magazines",
+                "url": "https://t.me/joinchat/AAAAAE2GJIVLRsmTcOAHiQ",
+                "descripcion": "Canal con revistas de todo el mundo."
+            }
+        ]
+    },
+    {
+        "emoji": "💻",
+        "titulo": "Tecnología",
+        "url": "tecnologia",
+        "canales": [
+            {
+                "titulo": "El Androide Libre",
+                "url": "https://t.me/AndroideLibre",
+                "descripcion": "Noticias sobre Android."
+            },
+            {
+                "titulo": "Xataka",
+                "url": "https://t.me/xataka",
+                "descripcion": "Noticias sobre tecnología."
+            },
+            {
+                "titulo": "Microsiervos",
+                "url": "https://t.me/microsiervos",
+                "descripcion": "Ciencia, tecnología, internet y mucho más."
+            }
+        ]
+    },
+    {
+        "emoji": "✈️",
+        "titulo": "Viajes",
+        "url": "viajes",
+        "canales": [
+            {
+                "titulo": "GuíaLowCost",
+                "url": "https://t.me/viajes_GuiaLowCost",
+                "descripcion": "Canal de viajes recomendable que te informa de las rebajas en vuelos y alojamientos además de aportar recomendaciones."
+            },
+            {
+                "titulo": "Viajeros Piratas",
+                "url": "https://t.me/Viajerospiratas",
+                "descripcion": "Canal similar al anterior."
+            }
+        ]
+    }
+]
